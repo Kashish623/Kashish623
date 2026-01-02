@@ -109,10 +109,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashish-negi-b52109275)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kashish623)
 
-</div>
+### 💌 Open to opportunities • Let's build something amazing together!
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kashish623&color=blueviolet&style=for-the-badge)
 
 **💌 From [Kashish623](https://github.com/Kashish623)**
+</div>
