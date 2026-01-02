@@ -56,6 +56,51 @@
 
 ---
 
+## 📂 Featured Projects
+
+### 💰 Expense Tracker (MERN Stack)
+✔ Secure JWT Authentication  
+✔ Add / Edit / Delete Expenses  
+✔ Category-wise & Monthly Analytics  
+✔ REST API + Responsive UI  
+
+📌 Tech: MongoDB, Express, React, Node.js  
+
+---
+
+### 🎓 Student Management System
+✔ Role-based access control  
+✔ SQL database integration  
+✔ Optimized queries & validations  
+
+---
+
+## 📈 Problem Solving Journey
+
+<div align="center">
+
+### 💡 LeetCode & GeeksforGeeks
+
+**800+** problems solved across platforms
+
+![LeetCode](https://img.shields.io/badge/LeetCode-800%2B-orange?style=for-the-badge&logo=leetcode)
+![GeeksforGeeks](https://img.shields.io/badge/GFG-Active-green?style=for-the-badge&logo=geeksforgeeks)
+
+**Focus Areas:** Arrays, Strings, Trees, Dynamic Programming, Graphs
+
+</div>
+
+---
+
+## 🎯 What I'm Looking For
+
+- 💼 **Full-Time SDE roles** in product-based companies
+- 🚀 **Internship opportunities** in startups or established tech firms
+- 🌐 **Open Source contributions** to impactful projects
+- 🤝 **Collaborations** on innovative web applications
+
+---
+
 ## 📫 Let's Connect!  
 
 <div align="center">
